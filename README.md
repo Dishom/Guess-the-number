@@ -1,2 +1,3 @@
 # Guess-the-number
-HTML , CSS ,JS project just to guess a secret random number
+A Simple Game to guess a secret random number
+Language used : HTML ,CSS , JS
